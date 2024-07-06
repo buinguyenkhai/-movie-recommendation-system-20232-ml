@@ -1,10 +1,10 @@
 # Movie Recommendation System
 
 - All datasets used: https://drive.google.com/drive/folders/1FkgButJTlPucM65LyKZp1gZntK5MuXM4?usp=drive_link
-- 
-Please put the all_datasets folder in the Project directory
+  
+- Please put the all_datasets folder in the Project directory
 
-db folder contains the database for GUI
+- db folder contains the database for GUI
 
 #### Matrix factorization
 Install scikit-surprise using conda (for matrix factorization only):
