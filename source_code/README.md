@@ -26,8 +26,10 @@ matrix_factorization.ipynb:
 
 user_item_dataset:
 get dataset for collaborative filtering
+
 cf_tuning:
 demo code for tuning param
+
 cf_recommendation:
 main code for recommendation using collaborative filtering
 
@@ -41,6 +43,7 @@ run 'streamlit run gui.py' on terminal and go to http://localhost:8501/
 
 imdb_dataset:
 Class to get data from IMDb database
+
 Class attributes: self.basics, self.directors, self.cast, self.ratings to merge with MovieLens database using imdbId
 
 Codes to process data in order:
